@@ -1,0 +1,6 @@
+/* // Fonts */
+@import url("https://fonts.bunny.net/css?family=poppins:300,400,500,600,700|roboto:300,400,500,700|open-sans:300,400,500,600,700");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
